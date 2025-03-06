@@ -29,7 +29,7 @@ Tools & Frameworks: Git, GitHub, Visual Studio, VS Code
 🎨 Painting with watercolor and gouache   
 🎶 Collecting vinyl records   
 🌱 Growing my plant collection    
-🐶 Hanging with my pups Gizmo & Wilson
+🐶 Hanging with my pups Gizmo & Wilson   
 📍 Supporting local business in Kansas City   
 
 
