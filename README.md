@@ -14,7 +14,7 @@ Tools & Frameworks: Git, GitHub, Visual Studio, VS Code
 
 🤗 About Me:     
 📸 Recently transitioned to tech after 17+ years in management and photography   
-🎓 Graduated from Centriq's Full-Stack Development Bootcamp     
+🎓 Graduated from a Full-Stack Development Bootcamp     
 👩‍💻 Love networking with women in Kansas City transitioning into tech and teaching Inroductory coding   
 
 
