@@ -38,7 +38,8 @@ Tools & Frameworks: Git, GitHub, Visual Studio, VS Code
 
 
 
-## 🤩 Still a huge fan of the 90s like me??  Watch a snake eating my contributions...
+## 🤩 Still a huge fan of the 90s like me??  Watch a snake eating my contributions...   
+If you want to help feed my snake hire me to work for you 😉   
 ![snake gif](https://github.com/avillegas1717/avillegas1717/blob/output/github-snake-dark.svg)
 
 
