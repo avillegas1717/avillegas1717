@@ -17,7 +17,6 @@
 
 📫 **Let's Connect:**
 - 💬 Reach out to me on LinkedIn: (https://www.linkedin.com/in/alicia-m-villegas).
-- CURRENTLY UNDER CONSTRUCTION***🌐 Visit my personal website: (http://www.aliciavillegas.net) for more about my projects and journey.***
 
 🙌 **Let's Build Together:**
 I'm always open to colab and eager to contribute to projects that align with my passion for continuous learning and improving. 
