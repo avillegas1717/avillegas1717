@@ -1,32 +1,32 @@
-👋 Hello world! I'm Alicia Villegas... 
+👋 Hello world! I'm Alicia Villegas...   
 
-👩‍💻 Front-End Developer | Accessibility Advocate 
-🦾 Passionate about building inclusive, user-friendly web experiences  
-🎙 Moderator & Educator at Coding & Cocktails 👩‍💻🍸 (https://kcwomenintech.org/coding-cocktails/) 
-💻 IT Help Desk Apprentice | Gaining hands-on experience in tech support & troubleshooting  
+👩‍💻 Front-End Developer | Accessibility Advocate   
+🦾 Passionate about building inclusive, user-friendly web experiences    
+🎙 Moderator & Educator at Coding & Cocktails 👩‍💻🍸 (https://kcwomenintech.org/coding-cocktails/)   
+💻 IT Help Desk Apprentice | Gaining hands-on experience in tech support & troubleshooting    
 
-💻 Tech Stack
-Languages: C#, JavaScript
-Frontend: HTML, CSS, JavaScript, React
-Backend: .NET Core, SQL
-Tools & Frameworks: Git, GitHub, Visual Studio, VS Code
-
-
-🤗 About Me  
-📸 Recently transitioned to tech after 17+ years in management and photography
-🎓 Graduated from Centriq's Full-Stack Development Bootcamp  
-👩‍💻 Love networking with women in Kansas City transitioning into tech and teaching Inroductory coding
+💻 Tech Stack  
+Languages: C#, JavaScript   
+Frontend: HTML, CSS, JavaScript, React    
+Backend: .NET Core, SQL     
+Tools & Frameworks: Git, GitHub, Visual Studio, VS Code   
 
 
-👩‍🎨 What I’m Working On  
-♿️ Exploring creative accessibility features using Raspberry Pi + TouchDesigner 
-📚 Working on CompTIA and Microsoft certifications for my apprenticeship
-📝 Teaching women how to code through KC Women in Tech’s Coding & Cocktails program 
-🎤 Moderating KCWiT's Coding & Cocktails Leadership & Mentor Spolight panels 
-🛠 Revamping the Coding & Cocktails presentations for the 2025 series 
+🤗 About Me     
+📸 Recently transitioned to tech after 17+ years in management and photography   
+🎓 Graduated from Centriq's Full-Stack Development Bootcamp     
+👩‍💻 Love networking with women in Kansas City transitioning into tech and teaching Inroductory coding   
 
 
- 💬 Reach out to me on LinkedIn: (https://www.linkedin.com/in/alicia-m-villegas)
+👩‍🎨 What I’m Working On      
+♿️ Exploring creative accessibility features using Raspberry Pi + TouchDesigner    
+📚 Working on CompTIA and Microsoft certifications for my apprenticeship   
+📝 Teaching women how to code through KC Women in Tech’s Coding & Cocktails program    
+🎤 Moderating KCWiT's Coding & Cocktails Leadership & Mentor Spolight panels    
+🛠 Revamping the Coding & Cocktails presentations for the 2025 series    
+
+
+ 💬 Reach out to me on LinkedIn: (https://www.linkedin.com/in/alicia-m-villegas)   
 
 
 
