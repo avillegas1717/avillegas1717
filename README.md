@@ -29,7 +29,8 @@ Tools & Frameworks: Git, GitHub, Visual Studio, VS Code
  💬 Reach out to me on LinkedIn: (https://www.linkedin.com/in/alicia-m-villegas)
 
 
-🤩 Still a huge fan of the 90s like me??  Watch a snake eating my contributions...
+
+## 🤩 Still a huge fan of the 90s like me??  Watch a snake eating my contributions...
 ![snake gif](https://github.com/avillegas1717/avillegas1717/blob/output/github-snake-dark.svg)
 
 
