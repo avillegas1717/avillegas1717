@@ -23,4 +23,6 @@
 I'm always open to colab and eager to contribute to projects that align with my passion for continuous learning and improving. 
 If you're working on something cool, let's connect and make it even better!
 
+## Still a huge fan of the 90s like me??  Watch a snake eating my contributions...
+![snake gif](https://github.com/avillegas1717/avillegas1717/blob/output/github-contribution-grid-snake.svg)
 
